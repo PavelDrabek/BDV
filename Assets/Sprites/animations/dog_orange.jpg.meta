@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 5db2523dc27724b98b7ce2d6b1fe66c1
+timeCreated: 1439724903
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dog_orange_0
+    21300002: dog_orange_1
+    21300004: dog_orange_2
+    21300006: dog_orange_3
+    21300008: dog_orange_4
+    21300010: dog_orange_5
+    21300012: dog_orange_6
+    21300014: dog_orange_7
+    21300016: dog_orange_8
+    21300018: dog_orange_9
+    21300020: dog_orange_10
+    21300022: dog_orange_11
+    21300024: dog_orange_12
+    21300026: dog_orange_13
+    21300028: dog_orange_14
+    21300030: dog_orange_15
+    21300032: dog_orange_16
+    21300034: dog_orange_17
+    21300036: dog_orange_18
+    21300038: dog_orange_19
+    21300040: dog_orange_20
+    21300042: dog_orange_21
+    21300044: dog_orange_22
+    21300046: dog_orange_23
+    21300048: dog_orange_24
+    21300050: dog_orange_25
+    21300052: dog_orange_26
+    21300054: dog_orange_27
+    21300056: dog_orange_28
+    21300058: dog_orange_29
+    21300060: dog_orange_30
+    21300062: dog_orange_31
+    21300064: dog_orange_32
+    21300066: dog_orange_33
+    21300068: dog_orange_34
+    21300070: dog_orange_35
+    21300072: dog_orange_36
+    21300074: dog_orange_37
+    21300076: dog_orange_38
+    21300078: dog_orange_39
+    21300080: dog_orange_40
+    21300082: dog_orange_41
+    21300084: dog_orange_42
+    21300086: dog_orange_43
+    21300088: dog_orange_44
+    21300090: dog_orange_45
+    21300092: dog_orange_46
+    21300094: dog_orange_47
+    21300096: dog_orange_48
+    21300098: dog_orange_49
+    21300100: dog_orange_50
+    21300102: dog_orange_51
+    21300104: dog_orange_52
+    21300106: dog_orange_53
+    21300108: dog_orange_54
+    21300110: dog_orange_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dog_orange_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 268
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 57
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 268
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 268
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 268
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 268
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 268
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 268
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 62
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 207
+        width: 60
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 58
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 207
+        width: 55
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 207
+        width: 63
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 207
+        width: 72
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 207
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 207
+        width: 53
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 123
+        width: 22
+        height: 77
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 59
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 148
+        width: 59
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 148
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 148
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 148
+        width: 20
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 123
+        width: 21
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 121
+        width: 29
+        height: 72
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 123
+        width: 23
+        height: 75
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 135
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 62
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 68
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 67
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 76
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 121
+        width: 24
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 125
+        width: 22
+        height: 74
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 122
+        width: 29
+        height: 72
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_35
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 71
+        width: 71
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_36
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 63
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_37
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 63
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 74
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 55
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 55
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 62
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 15
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_44
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 15
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_48
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 63
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 268
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 268
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 148
+        width: 22
+        height: 43
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 125
+        width: 22
+        height: 74
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_53
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 71
+        width: 74
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_54
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 15
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dog_orange_55
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 15
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
