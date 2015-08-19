@@ -6,8 +6,11 @@ public class PlayerController : MonoBehaviour {
 
 	public Transform myTransform;
 	public Transform cameraTransform;
+	public Rigidbody2D boneTrapPrefab;
 	public float speed;
 	public int bones;
+	public float throwForce = 5;
+	public float throwTorgue = 15;
 
 	private bool _movingLeft;
 	private bool _movingRight;
@@ -36,6 +39,11 @@ public class PlayerController : MonoBehaviour {
 
 	public void ThrowBone() {
 		if(bones > 0) {
+			Rigidbody2D rigid = Instantiate(boneTrapPrefab);
+			rigid.transform.position = myTransform.position + new Vector3(0.5f, 1.5f, 0);
+			rigid.AddForce(Vector2.one * throwForce, ForceMode2D.Impulse);
+			rigid.AddTorque(-throwTorgue);
+
 			bones--;
 			InformUpdateListeners();
 		}
